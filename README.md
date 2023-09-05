@@ -16,6 +16,7 @@
 
 This is a simple Power Scheduler with BLE / WIFI connectivity to turn ON or OFF a USB-A port/Plug / outlet. 
 
+(soon . stay tuned! )
 
 <br />
 <br />
