@@ -23,6 +23,11 @@ This is a simple Power Scheduler with BLE / WIFI connectivity to turn ON or OFF 
 <br />
 <br />
 
+## Parts List
+
+- [Smart PCB electronics (assembled)](http://www.tindie.com/aeonlabs)
+- [Plastic enclosure](https://s.click.aliexpress.com/e/_DCx3bkj)
+
 ## Author
 
 You can get in touch with me on my LinkedIn Profile:
