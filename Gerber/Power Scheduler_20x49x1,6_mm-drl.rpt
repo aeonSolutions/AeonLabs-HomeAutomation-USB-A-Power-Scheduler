@@ -1,0 +1,29 @@
+Drill report for Power Scheduler_20x49x1,6_mm.kicad_pcb
+Created on 9/6/2023 3:28:28 PM
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'Power Scheduler_20x49x1,6_mm-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.300mm  0.0118"  (24 holes)
+    T2  0.400mm  0.0157"  (15 holes)
+    T3  0.920mm  0.0362"  (4 holes)
+    T4  1.000mm  0.0394"  (4 holes)
+    T5  1.050mm  0.0413"  (2 holes)  (with 2 slots)
+
+    Total plated holes count 49
+
+
+Drill file 'Power Scheduler_20x49x1,6_mm-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  0.700mm  0.0276"  (5 holes)
+    T2  1.250mm  0.0492"  (2 holes)
+    T3  2.300mm  0.0906"  (2 holes)
+
+    Total unplated holes count 9
