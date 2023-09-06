@@ -14,7 +14,7 @@
 
 # USB-A Power Scheduler
 
-This is a simple Power Scheduler with BLE / WIFI connectivity to turn ON or OFF a USB-A port/Plug / outlet at any give day and hour. Compatible with all major comercial vendors and also open source vendors such as home assistant.   
+This is a simple Power Scheduler with BLE / WIFI connectivity to turn ON or OFF a USB-A port/Plug / outlet at any give day and hour. Compatible with all major commercial vendors and also open source vendors such as home assistant.   
 
 <p align="center">
    <img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-USB-A-Power-Scheduler/blob/main/media/pcb_front.png" width="60%">
