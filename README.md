@@ -25,8 +25,32 @@ This is a simple Power Scheduler with BLE / WIFI connectivity to turn ON or OFF 
 
 ## Parts List
 
-- [Smart PCB electronics (assembled)](http://www.tindie.com/aeonlabs)
+- [Smart PCB electronics (assembled)](https://www.tindie.com/stores/aeonlabs/)
 - [Plastic enclosure](https://s.click.aliexpress.com/e/_DCx3bkj)
+
+<br>
+
+## Compatibility
+
+<p align="center">
+ <a href"https://www.apple.com/shop/accessories/all/homekit">
+<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/works_with_apple_home.png" height="50">
+ </a>
+<a href="https://home.google.com"> 
+ <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/works_with_google_home.png" height="50">
+ </a>
+<a href="https://www.home-assistant.io">  
+ <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/works_with_home_assistanr.png" height="50">
+ </a>
+<a href="https://csa-iot.org/all-solutions/matter/">  
+ <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/works_with_matter.png" height="50">
+ </a>
+<a href="https://csa-iot.org/all-solutions/matter/">  
+ <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/works_with_zigbee.jpg" height="50">
+ </a>
+</p>
+
+<br>
 
 ## Author
 
