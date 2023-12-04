@@ -12,6 +12,13 @@
 
 [PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Home-Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home-Automation)  >>   [Distributed Power Storage](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Distributed-power_storage/tree/main)  >>   USB-A Power Scheduler
 
+<p align="right">
+    sponsored by <br>
+    <a href="https://www.seeedstudio.com/fusion.html">
+       <img height="25" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/seedstudio_logo.png">
+    </a>
+</p>
+
 # USB-A Power Scheduler
 
 This is a simple Power Scheduler with BLE / WIFI connectivity to turn ON or OFF a USB-A port/Plug / outlet at any give day and hour. Compatible with all major commercial vendors and also open source vendors such as home assistant. The innovation of this  USB Power Scheduler device is in the ability to schedule charging to specific times during the day and night according to the price of electricity change. It can be programmed using machine learning to connect to a electricity market data source and calculate the best time to schedule power according to the price variations on the electricity markets. 
