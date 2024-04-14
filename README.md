@@ -28,6 +28,15 @@ This is a simple Power Scheduler with BLE / WIFI connectivity to turn ON or OFF 
 
 <p align="center">
    <img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-USB-A-Power-Scheduler/blob/main/media/pcb_front.jpg" width="60%">
+</p>
+
+<p align="center">
+<strong> <a href="https://aeonsolutions.github.io/sponsor/usb_power_schedule/">Interactive view of the PCB Layout</a> </strong> &nbsp;
+  <strong> <a href="https://aeonsolutions.github.io/sponsor/usb_power_schedule/circuit_schematic.html">Interactive view of the circuit schematic</a> </strong> <br>
+ <sup>Click to view the latest revision</sup>
+</p>
+
+<p align="center">
    <img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-USB-A-Power-Scheduler/blob/main/media/pcb_back.jpg" width="60%">
 </p>
 
