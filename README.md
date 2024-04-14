@@ -86,7 +86,9 @@ The OEM version of the firmware code can be found in the folder **firmware code*
 
 This code uses my own ESP32 C++ class libraries to expedite the development of code for ESP32 microcontrollers. The repository is located [here](https://github.com/aeonSolutions/aeonlabs-ESP32-C-Base-Firmware-Libraries#readme) for anyone to use.
 
-## original KiCad Project Files
+<br>
+
+## Original KiCad Project Files
 The folder "KiCad Project Files" contains the KiCad Project files, for the hardware electronics of the USB-A Smart Scheduler.  Each KiCad project is available with a [creative commons share alike non-commercial license](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en). 
 
 <p align="center">
