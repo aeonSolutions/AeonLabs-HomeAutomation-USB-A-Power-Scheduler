@@ -82,9 +82,19 @@ This is a simple Power Scheduler with BLE / WIFI connectivity to turn ON or OFF 
 <br>
 
 ## OEM Firmware code
-The OEM version of the firmware code can be found on the folder **firmware code**.  It has by default OTA updates, meaning the Smart USB-A Scheduler add-on device automatically updates it self when newer updated versions made available here.  
+The OEM version of the firmware code can be found in the folder **firmware code**.  It has by default OTA updates, meaning the Smart USB-A Scheduler add-on device automatically updates itself when newer updated versions are made available here.  
 
-This code uses my own ESP32 c++ class libraries to expedite development of code of ESP32 microcontrollers. The repository is located [here](https://github.com/aeonSolutions/aeonlabs-ESP32-C-Base-Firmware-Libraries#readme) for anyone to use.
+This code uses my own ESP32 C++ class libraries to expedite the development of code for ESP32 microcontrollers. The repository is located [here](https://github.com/aeonSolutions/aeonlabs-ESP32-C-Base-Firmware-Libraries#readme) for anyone to use.
+
+## original KiCad Project Files
+The folder "KiCad Project Files" contains the KiCad Project files, for the hardware electronics of the USB-A Smart Scheduler.  Each KiCad project is available with a [creative commons share alike non-commercial license](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en). 
+
+<p align="center">
+  <strong> <a href="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-USB-A-Power-Scheduler/tree/main/KiCad%20Project%20Files">Go to The KiCad Project Files folder</a> </strong> <br>
+ <sup>available with a creative commons share alike non-commercial license/sup>
+</p>
+
+However, they're not fully complete. If you like it and are looking to use it on your projects, you can download the complete Kicad project files with a one-time donation, [click here](https://github.com/sponsors/aeonSolutions) to learn how,  and don't forget to include it in a message the name of the module/hardware electronics you need. <br> Thank you 🙏.
 
 <br />
 <br />
