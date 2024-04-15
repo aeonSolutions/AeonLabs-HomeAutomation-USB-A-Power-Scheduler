@@ -40,6 +40,17 @@ This is a simple Power Scheduler with BLE / WIFI connectivity to turn ON or OFF 
    <img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-USB-A-Power-Scheduler/blob/main/media/pcb_back.jpg" width="60%">
 </p>
 
+
+**revision 05-2024** <br>
+In this most recent revision, I'm using the microcontroller ESP32 C3 and an extreme low power management system that makes this device consume a mere ~360nA when connected to a USB plug and in standby mode.
+It also features USB-A to Serial UART connectivity on the USB-A male connector for firmware upgrades & updates, and it can also be used to probe a USB Power Delivery Network. More of these Smart Scheduler Devices connected to your home "USB Power Delivery Network", that Network will be more secure and safe from hacks and intrusion.
+
+Plus.... <br>
+scheduling of charging a device for an hour more convenient, when the electricity price is lower, for instance during late-night hours.
+
+
+Made to fit a cheap plastic enclosure sold on AliExpress. See parts list below for moe information. 
+
 <br />
 <br />
 
