@@ -22,6 +22,7 @@ Last update: 14-04-2024
     </a>
 </p>
 
+
 # USB-A Power Scheduler
 
 This is a simple Power Scheduler with BLE / WIFI connectivity to turn ON or OFF a USB-A port/Plug/outlet at any given day and hour. Compatible with all major commercial vendors and also open source vendors such as Home Assistant. The innovation of this  USB Power Scheduler device is in the ability to schedule charging to specific times during the day and night according to the price of electricity change. It can be programmed using machine learning to connect to an electricity market data source and calculate the best time to schedule power according to the price variations in the electricity markets. 
@@ -49,10 +50,22 @@ Plus.... <br>
 scheduling of charging a device for an hour more convenient, when the electricity price is lower, for instance during late-night hours.
 
 
-Made to fit a cheap plastic enclosure sold on AliExpress. See parts list below for moe information. 
+Made to fit a cheap plastic enclosure sold on AliExpress. See the parts list below for moe information. 
+
+
+###  Read all about this open hardware project on ...
+<p align="center">
+   <a href="https://www.hackster.io/mtpsilva/usb-a-power-scheduler-acad74">
+      <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/hackster_io.png" height="50">
+   </a>
+ </p>
+
+<br>
+
 
 <br />
 <br />
+
 
 ## Parts List
 
