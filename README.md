@@ -28,7 +28,8 @@ Last update: 15-04-2024
 This is a simple Power Scheduler with BLE / WIFI connectivity to turn ON or OFF a USB-A port/Plug/outlet at any given day and hour. Compatible with all major commercial vendors and also open source vendors such as Home Assistant. The innovation of this  USB Power Scheduler device is in the ability to schedule charging to specific times during the day and night according to the price of electricity change. It can be programmed using machine learning to connect to an electricity market data source and calculate the best time to schedule power according to the price variations in the electricity markets. 
 
 <p align="center">
-   <img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-USB-A-Power-Scheduler/blob/main/media/pcb_front.jpg" width="60%">
+   <img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-USB-A-Power-Scheduler/blob/main/media/pcb_front.jpg" width="45%">
+    <img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-USB-A-Power-Scheduler/blob/main/media/pcb_back.jpg" width="45%">
 </p>
 
 <p align="center">
@@ -42,6 +43,7 @@ This is a simple Power Scheduler with BLE / WIFI connectivity to turn ON or OFF 
 </p>
 
 
+
 **revision 05-2024** <br>
 In this most recent revision, I'm using the microcontroller ESP32 C3 and an extreme low power management system that makes this device consume a mere ~360nA when connected to a USB plug and in standby mode.
 It also features USB-A to Serial UART connectivity on the USB-A male connector for firmware upgrades & updates, and it can also be used to probe a USB Power Delivery Network. More of these Smart Scheduler Devices connected to your home "USB Power Delivery Network", that Network will be more secure and safe from hacks and intrusion.
@@ -50,7 +52,7 @@ Plus.... <br>
 scheduling of charging a device for an hour more convenient, when the electricity price is lower, for instance during late-night hours.
 
 
-Made to fit a cheap plastic enclosure sold on AliExpress. See the parts list below for moe information. 
+Made to fit a cheap plastic enclosure sold on AliExpress. See the parts list below for more information. 
 
 
 ###  Read all about this open hardware project on ...
@@ -69,8 +71,8 @@ Made to fit a cheap plastic enclosure sold on AliExpress. See the parts list bel
 
 ## Parts List
 
-- [Smart PCB electronics (assembled)](https://www.tindie.com/stores/aeonlabs/)
-- [Plastic enclosure](https://s.click.aliexpress.com/e/_DCx3bkj)
+- buy the [Smart PCB electronics (assembled)](https://www.tindie.com/stores/aeonlabs/) o Tindie.com
+- buy the [Plastic enclosure LK-USB07](https://s.click.aliexpress.com/e/_DCx3bkj) on AliExpress
 
 <br>
 
