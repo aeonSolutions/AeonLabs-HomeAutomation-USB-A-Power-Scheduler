@@ -22,10 +22,26 @@ Last update: 15-04-2024
     </a>
 </p>
 
+## This Hardware Electronics is Sponsorware 💰💰💰
+The optimized design files for each of the hardware electronics listed are only available to my sponsors on GitHub Sponsors.
+It features many PCB optimizations such as much more energy efficiency and much less EMI  on the boards. This means, for instance, much better hardware performance and lasting battery life. 
+
+Enjoy, and thanks for the support! ❤️
+
+Learn more about **Sponsorware** at [https://github.com/aeonSolutions/sponsorware](https://github.com/aeonSolutions/sponsorware) 💰.
+
+<p align="center">
+    <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/become_a_sponsor/aeonlabs-github-sponsorship-agreement.docx">
+        <img height="50" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/want_to_become_a_sponsor.png">
+    </a>
+    <a href="https://github.com/sponsors/aeonSolutions">
+        <img height="50" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/become_a_github_sponsor.png">
+    </a>
+</p>
 
 # USB-A Power Scheduler
 
-This is a simple Power Scheduler with BLE / WIFI connectivity to turn ON or OFF a USB-A port/Plug/outlet at any given day and hour. Compatible with all major commercial vendors and also open source vendors such as Home Assistant. The innovation of this  USB Power Scheduler device is in the ability to schedule charging to specific times during the day and night according to the price of electricity change. It can be programmed using machine learning to connect to an electricity market data source and calculate the best time to schedule power according to the price variations in the electricity markets. 
+This is a simple power scheduler with BLE / WIFI connectivity that can turn ON or OFF a USB-A port/plug/outlet on any given day and hour. Compatible with all major commercial vendors and also open source vendors such as Home Assistant. The innovation of this  USB Power Scheduler device is in the ability to schedule charging to specific times during the day and night according to the price of electricity change. It can be programmed using machine learning to connect to an electricity market data source and calculate the best time to schedule power according to the price variations in the electricity markets. 
 
 <p align="center">
    <img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-USB-A-Power-Scheduler/blob/main/media/pcb_front.jpg" width="45%">
