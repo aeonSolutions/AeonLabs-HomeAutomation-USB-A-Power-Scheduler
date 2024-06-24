@@ -128,10 +128,11 @@ Made to fit a cheap plastic enclosure sold on AliExpress. See the parts list bel
 The OEM version of the firmware code can be found in the folder **firmware code**.  It has by default OTA updates, meaning this smart switch device automatically updates itself when newer updated versions are made available here.  
 This code uses my own ESP32 C++ class libraries to expedite the development of code for ESP32 microcontrollers. The repository is located [here](https://github.com/aeonSolutions/aeonlabs-ESP32-C-Base-Firmware-Libraries#readme) for anyone to use.
 
-
 <p align="center">
+ <a href="https://github.com/Domi04151309/HomeApp">
  <img height="70" src="https://raw.githubusercontent.com/Domi04151309/HomeApp/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp">
-</p>
+ </a>
+ </p>
 
 ### Home App for Android™
 HomeApp is a small and easy to use smart home app with a simple framework. The goal of this application is to make remote execution of predefined features as easy and user-friendly as possible to help you get started with smart home technology.
